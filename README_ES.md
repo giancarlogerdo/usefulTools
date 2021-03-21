@@ -12,5 +12,5 @@
 - WhichSystem detecta el sistema operativo a través de una traza ICMP
 
 # Pull Requests:
-> [h4cjun](https://github.com/h3cjun)
+> [h3cjun](https://github.com/h3cjun)
 > > Traducción de: usefulTools, colours y extractPorts
