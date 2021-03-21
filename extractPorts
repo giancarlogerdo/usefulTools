@@ -16,3 +16,5 @@ function extractPorts(){
 	echo -e "${yellowColour}[*] Ports has been copied to clipboard!${endColour}\n"
 
 }
+
+extractPorts
