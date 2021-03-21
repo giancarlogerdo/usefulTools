@@ -1,4 +1,4 @@
-#Idea by: @s4vitar (Marcelo Vázquez)
+# Author @s4vitar (Marcelo Vázquez)
 
 function extractPorts(){
 	echo -e "\n${yellowColour}[*] Extracting Information...${endColour}\n"
