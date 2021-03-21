@@ -1,5 +1,3 @@
-# Author @s4vitar (Marcelo Vázquez)
-
 #!/usr/bin/python
 
 import subprocess, re, sys
@@ -33,3 +31,6 @@ if __name__ == '__main__':
 		print "\n%s -> %s" % (addr, return_ttl_os_name(int(ttl)))
 	except:
 		pass
+	
+	
+# Author @s4vitar (Marcelo Vázquez)
