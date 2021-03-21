@@ -1,3 +1,5 @@
+# Author @s4vitar (Marcelo Vázquez)
+
 #!/usr/bin/python
 
 import subprocess, re, sys
