@@ -4,7 +4,7 @@
 - This repository is a simple shortcut to functions or scripts from the community that I consider very useful.
 
 # Current Tools
-### [colours | by s4vitar](https://github.com/sikumy/usefulTools/blob/main/colours)
+### [colours | Author @s4vitar (Marcelo Vázquez)](https://github.com/sikumy/usefulTools/blob/main/colours)
 - Colour palette to include in your bash scripts or in the bashrc for their respective functions.
-###  [extractPorts | by s4vitar](https://github.com/sikumy/usefulTools/blob/main/extractPorts)
+###  [extractPorts | Author @s4vitar (Marcelo Vázquez)](https://github.com/sikumy/usefulTools/blob/main/extractPorts)
 - Extract ports from nmap oG capture and copy them to the clipboard
