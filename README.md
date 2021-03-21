@@ -6,5 +6,5 @@
 # Current Tools
 ### Colours | by s4vitar
 - Colour palette to include in your bash scripts or in the bashrc for their respective functions.
-### extractPorts | by s4vitar [Heading Link](https://github.com/sikumy/usefulTools/blob/main/bashrc/extractPorts)
+###  [extractPorts | by s4vitar](https://github.com/sikumy/usefulTools/blob/main/bashrc/extractPorts)
 - Extract ports from nmap oG capture and copy them to the clipboard
