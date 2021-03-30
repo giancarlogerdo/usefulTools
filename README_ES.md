@@ -1,7 +1,7 @@
 # usefulTools
-- Aquí hemos compilado funciones y scripts que pueden ser útiles para facilitar cualquier proceso de pentesting
-- Aquí hay funciones de otras personas, las cuales son mencionadas al principio de la correspondiente función o script.
-- Este repositorio es un simple acceso directo a funciones o scripts de la comunidad que consideramos importantes.
+- En este repositorio hemos recopilado funciones y scripts que pueden ser útiles para facilitar cualquier proceso de pentesting
+- Avisamos de que este repositorio es simplemente un acceso directo a funciones y scripts de la comunidad que consideramos importantes.
+- Aquí encontrarás funciones de otras personas, las cuales son mencionadas al principio de su correspondiente función/script.
 
 # Current Tools
 ### [colours | Autor @s4vitar (Marcelo Vázquez)](https://github.com/sikumy/usefulTools/blob/main/colours)
